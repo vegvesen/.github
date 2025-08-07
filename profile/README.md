@@ -1,5 +1,4 @@
 # Statens vegvesen - På vei mot et bedre samfunn 🛣️
-*Norwegian Public Roads Administration - On the road to a better society*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20us-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/statens-vegvesen)
 [![Karriere](https://img.shields.io/badge/Karriere-Bli%20med%20oss-green?style=flat)](https://www.vegvesen.no/om-oss/jobb/ledige-stillinger/)
@@ -27,6 +26,3 @@ Ingen skal dø eller skades alvorlig i trafikken. Vår teknologi bidrar direkte 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RCjIUW67rKM/hqdefault.jpg)](https://www.youtube.com/watch?v=RCjIUW67rKM)
 
----
-
-*Vi er mer enn en veibygger - vi er teknologipionerer som former fremtidens mobilitet* 🚀
