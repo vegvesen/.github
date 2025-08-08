@@ -1,5 +1,3 @@
-# Statens vegvesen - På vei mot et bedre samfunn 🛣️
-
 ## 🌟 Hvem er vi?
 
 Vi bygger Norges digitale transportinfrastruktur. Med over **400 utviklere** jobber vi med teknologi som påvirker **millioner av reiser daglig**. Arbeidet vårt har direkte innvirkning på folks hverdagsliv og Norges bærekraftige fremtid.
